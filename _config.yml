@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhihan Chen / Site Title"
+title                    : "Zhihan Chen / Student"
 title_separator          : "-"
 name                     : &name "Zhihan Chen"
 description              : &description "personal description"
