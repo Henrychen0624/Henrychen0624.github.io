@@ -3,6 +3,7 @@ title: "Optimization Modeling in Finance"
 collection: Optimization
 category: manuscripts
 date: 2024-08-08
+venue: 'My own Brain'
 paperurl: 'http://Henrychen0624.github.io/files/ORIE_5370_Proj.ipyn_Colab.pdf'
 citation: 'Google'
 ---
