@@ -11,4 +11,4 @@ Hello, welcome to my personal website. My name is Zhihan Chen and I am a graduat
 
 You can find my CV here: [Henry's CV](../assets/Chen.Zhihan.validity_intern.pdf)
 
-You can also find researches I have done and paper I written: [Publications](https://github.com/Henrychen0624/Henrychen0624.github.io/tree/master/_publications)
+You can also find researches I have done and paper I written: [Publications]((https://www.google.com/))
