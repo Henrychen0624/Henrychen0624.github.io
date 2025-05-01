@@ -23,6 +23,15 @@ Work experience
 * 2023: Caitong Fund
   * Duties included: Fixed Income Trader
   * Supervisor: N/A
+
+Projects
+======
+* Emotion Classification of Natural Language” Machine Learning Project, Cornell University
+  * Trained SVM and Naive Bayes models to recognize human emotions expressed in piece of text with best SVMvalidation accuracy 0.7258.
+  * Applied BERT model as part of feature engineering and data processing process to optimize the SVMmodel andsuccessfully raised the accuracy to 0.77.
+* Gone With the Wind” Mathematical Modeling, UCLA
+  * Proposed a new Ordinary Differential Equation system to quantify the love dynamic between hero and heroineinGonewith the Wind. Using programming language to draw the phase portrait and trajectory of the new model.
+  * Optimized the model by splitting single terms in the original model into multiple linear combinations andreassigningthe values of the terms within these linear combinations.
   
 Skills
 ======
@@ -39,4 +48,6 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Event Planner, UCLA Undergraduate Mathematics Student Association, Los Angeles, CA
+  * Assisted 10+ students with Math problems on differential equations and linear algebra
+  * Organized 5 meetings with UCLA Alumni and asked them to share research and industry experiencewithover30 attendees each meeting.
