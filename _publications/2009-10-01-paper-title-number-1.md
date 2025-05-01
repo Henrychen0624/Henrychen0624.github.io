@@ -3,7 +3,7 @@ title: "Mathematical Modeling"
 collection: Project Paper
 category: manuscripts
 date: 2024-03-03
-venue: 'Journal 1'
+venue: 'My own Brain'
 paperurl: 'http://Henrychen0624.github.io/files/Math_Modeling_Proj.pdf'
 citation: 'Google'
 ---
