@@ -1,6 +1,6 @@
 ---
 title: "Gift by Friend"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "I got new Gift<br/>"
 collection: portfolio
 ---
 ![Casetify Case](casetify.png)
