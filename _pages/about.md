@@ -13,4 +13,4 @@ You can find my CV here: [Henry's CV](../assets/Chen.Zhihan.validity_intern.pdf)
 
 You can also find researches I have done and paper I written: [Publications](https://henrychen0624.github.io/publications/)
 
-May Grilfriend: [Arina Zheng](https://wanerzheng.github.io/)
+My Grilfriend: [Arina Zheng](https://wanerzheng.github.io/)
